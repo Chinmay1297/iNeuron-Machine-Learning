@@ -1,1 +1,1 @@
-# iNeuron-Machine-Learning
+# iNeuron-Machine-Learning Assignments
